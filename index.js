@@ -30,6 +30,3 @@ function makeInt(n) {
 }
 
 
-function makeInt(n) {
-  return(10)
-}
