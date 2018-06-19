@@ -33,7 +33,6 @@ function makeInt(n) {
 }
 
 var n = 4.44
-var b = FF2
 function preserveDecimal(n) {
-  retun(parseFloat(n, b))
+  retun(parseFloat(n)
 }
