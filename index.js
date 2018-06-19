@@ -28,8 +28,8 @@ function dec(n) {
 
 var n = 787
 var a = makeInt("10")
-function makeInt(n, a) {
-  return(parseInt(n))
+function makeInt(n) {
+  return(parseInt(n, a))
 }
 
 
