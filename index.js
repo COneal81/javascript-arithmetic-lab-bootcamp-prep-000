@@ -30,5 +30,5 @@ var n = 787
 function makeInt(n) {
   return(parseInt(n))
 }
-
+var a = makeInt("10")
 
