@@ -16,6 +16,7 @@ function multiply(numberA, numberB) {
 function divide(numberB, numberA) {
   return(numberB/=numberA)
 }
+
 var n = "797"
 function inc(n){
   return (++n)
@@ -25,8 +26,9 @@ function dec(n) {
   return(--n)
 }
 
+var n = "797"
 function makeInt(n) {
-  return(parseInt(n))
+  return(parseInt('n', 10))
 }
 
 
