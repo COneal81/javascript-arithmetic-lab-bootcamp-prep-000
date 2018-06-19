@@ -32,7 +32,7 @@ function makeInt(n) {
   return(parseInt(n, a))
 }
 
-var n = 3.14
+var n = 4
 function preserveDecimal(n) {
   retun(parseFloat(n))
 }
