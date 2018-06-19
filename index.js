@@ -26,8 +26,11 @@ function dec(n) {
   return(--n)
 }
 
-var n = 10
-function makeInt(n) {
+var n = 787
+function makeInt(n, 10) {
   return(parseInt(n))
 }
 
+function preserveDecimal(n){
+  return(parseFloat(n))
+}
